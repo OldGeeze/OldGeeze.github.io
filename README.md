@@ -9,21 +9,19 @@
 
 <body>
 <article>
-    <h2 style="text-align: center;">Reasons to Love Her</h2>
+    <h2 style="text-align: center;">Thank You for Everything, My Dear..</h2>
     <hr>
-    <h3 style="text-align: center;">By Fikhri Maheswara T.</h3>
-    <p>Hello there you beautiful human being, today I will tell you why I love this person in particular</p>
-    <h3>1. Appearance</h3>
-    <p>First off, appearance is important for first impression. When I saw her for the first time (by accident, we both met) and I was like "oh, she looks kinda cute and I wanna get along with her. Maybe she wouldn't mind it." Later when I met her for the second time after school, she smiled at me and in my mind, I said "Why did she just smile at me? More importantly, she looks really cute now that I think about it." Ever since that day, I've been looking forward to seeing her at school.</p>
-    <h3>2. Personality </h3>
-    <p>You see, I'm that type of guy who's hard to fall in love because I value personality more than appearance, and it just so happens that I really like her personality. The reason is that she's a really kind person, open-minded, willing to talk and listen to you. overall, she's a likeable person. Out of all this, I really like the fact that she's willing to talk about life or other things for hours, which is great since I like talking about things in life to someone that I like or really close with me and have a good time.</p>
-    <h3>3. A Caring Person</h3>
-    <p>She's the kind of person who likes to help others with their problems, whether it's a personal problem or relationship problem, she's there to help. Like this one time where I had a problem with my big brother and she's there to help me with it. I would love to help her with her problem if she wanted to.</p>
-    <p>I could go on and write a lot of things about her, but I don't know how to describe it. In summary, she's a perfect girl I could ever ask for and I'm glad that I met her even though it was by accident. Hopefully that someday, I can tell her in person how much I really love her and hopefully this feeling would last for the rest of my life.</p><br>
-    <p style="text-align: center;">With that being said, I think that's all I have to say. Farewell!</p>
-    <h4>"The feelings were still fresh as if it all just happened yesterday"<br>-Makoto Shinkai, Byosoku no 5 Centimeter</h4><br>
-    <p style="text-align: center;">Idea by Khasyifa Fakhrunissa S.</p>
-    <p style="text-align: center;">Coded by The Author himself</p>
+    <p>Selamat pagi, selamat siang, selamat sore, atau selamar malam Syifa. Aku gatau kamu baca ini kapan, jadi aku ucapin kamu itu semua. Mungkin kamu bingung kenapa aku nulis surat ini? Sebenarnya, aku pengen bilang sesuatu ke kamu.</p>
+    <p>Aku pengen bilang terima kasih untuk semuanya sampai saat ini. Aku jujur aja, aku senang bisa ngabisin waktu bersama kamu, kayak bikin kue, belajar bareng, atau semacemnya. Mungkin karena kamu.. spesial bagi aku, soalnya hanya kamu yang bersyukur karena aku udah lahir ke dunia ini, hanya kamu yang bilang kalau aku harus bangga dengan diriku dan aku harus mencintai diriku sendiri.</p>
+    <p>Aku gak nyangka kalau ada seseorang yang bakalan seperti ini terhadap aku. Aku juga gak pernah berharap karena aku orangnya aneh, susah bersosialisasi, gak ada yang menarik tentang aku, dan kehidupanku bosan. Tapi ternyata aku salah, karena kamu telah hadir di hidupku, kamu membuktikan kalau dugaan ku salah. Jadi, terima kasih telah hadir di hidupku.</p>
+    <p>Kamu mungkin suka aneh kenapa pas ulang tahun aku, malah aku yang ngasih kue ke kamu. Setauku, kue itu melambangkan kebahagian dan kebersamaan, makannya aku ngasih kue ke kamu karena aku pengen berbagi kebahagiaanku kepada kamu. Dan kamu juga pernah bilang kalau aku bahagia.. kamu juga ikutan bahagia, jadi aku mau kamu selalu bahagia, dimanapun dan kapanpun.</p>
+    <p>Satu lagi, aku pernah bilang “dan makasih juga orang itu adalah kamu” pas aku ngebalas isi surat ucapan ulang tahun aku. Yang aku maksud dari itu… aku berterima kasih karena kamu yang bikin aku… sayang kepada mu…</p>
+    <p>itu aja dari aku, maaf kalau ada yang kurang jelas (atau aku nya aja yang gak jelas). Syifa, take care of yourself, always be happy of what you’ve accomplished, always be proud of what you’ve achieved.</p>
+    <h4>I love you
+        <br>
+        -Fikhri
+    </h4>
+    
 </article>
 
 
